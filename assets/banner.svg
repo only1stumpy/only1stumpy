@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 680 190" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>only1stumpy — full-stack developer</title>
+<desc>Тёмный баннер с эффектом терминала, моноширинным текстом only1stumpy, подписью full-stack developer и сканлайнами</desc>
+<defs>
+<linearGradient id="bgf2" x1="0" y1="0" x2="680" y2="190" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#05060a"/>
+<stop offset="1" stop-color="#0d1117"/>
+</linearGradient>
+<linearGradient id="glowf2" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#39ff14" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#39ff14" stop-opacity="0.9"/>
+<stop offset="1" stop-color="#39ff14" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="190" fill="url(#bgf2)"/>
+<g opacity="0.06">
+<rect x="0" y="0" width="680" height="2" fill="#39ff14"/>
+<rect x="0" y="10" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="22" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="34" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="46" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="58" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="70" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="82" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="94" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="106" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="118" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="130" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="142" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="154" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="166" width="680" height="1" fill="#39ff14"/>
+<rect x="0" y="178" width="680" height="1" fill="#39ff14"/>
+</g>
+<rect x="0" y="160" width="680" height="2" fill="url(#glowf2)"/>
+<text x="60" y="60" font-family="monospace" font-size="13" fill="#39ff14" opacity="0.8">$ whoami</text>
+<text x="60" y="95" font-family="monospace" font-size="34" font-weight="700" fill="#39ff14">only1stumpy_</text>
+<text x="60" y="125" font-family="monospace" font-size="14" fill="#7dd3a0" opacity="0.85">full-stack developer</text>
+<rect x="56" y="138" width="2" height="16" fill="#39ff14"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<g transform="translate(560,30)" opacity="0.5">
+<rect x="0" y="0" width="60" height="60" fill="none" stroke="#39ff14" stroke-width="0.5"/>
+<rect x="10" y="10" width="40" height="40" fill="none" stroke="#39ff14" stroke-width="0.5"/>
+<line x1="0" y1="0" x2="60" y2="60" stroke="#39ff14" stroke-width="0.5"/>
+<line x1="60" y1="0" x2="0" y2="60" stroke="#39ff14" stroke-width="0.5"/>
+</g>
+</svg>
