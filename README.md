@@ -69,7 +69,7 @@
 
 ---
 
-### [MeloDown](https://github.com/only1stumpy/Melodown)
+### [MeloDown](https://github.com/only1stumpy/Melodown)  🚧 В разработке
 
 Self-hosted сервис для скачивания музыки в WAV на основе Spotify metadata.
 
