@@ -66,7 +66,7 @@
 
 ---
 
-### <img src="./assets/melodown_logo.svg" width="28" align="center" /> MeloDown  🚧 В разработке
+### <img src="./assets/melodown_logo.svg" width="28" align="center" /> MeloDown 
 
 Self-hosted сервис для скачивания музыки в WAV на основе Spotify metadata.
 
@@ -81,7 +81,7 @@ Self-hosted сервис для скачивания музыки в WAV на о
 
 **Стек:** Next.js, TypeScript, Spotify Web API, yt-dlp, FFmpeg, sharp, Zod
 
-📦 [Репозиторий](https://github.com/only1stumpy/MeloDown)
+🔗 [Live Demo](http://92.5.22.227:3000/) · 📦 [Репозиторий](https://github.com/only1stumpy/MeloDown)
 
 ---
 
